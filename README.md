@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Noelle
-- 👀 I’m interested in AI, Big Data, Coffee
-- 🌱 I’m currently learning sklearn, PyTorch, Tensorflow, Keras
-- 💞️ I’m looking to collaborate on anything
+
 
 
 <!---
